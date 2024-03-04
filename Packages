@@ -1,14 +1,14 @@
 Package: com.shadowtech.ios
 Version: 1.0.2~b21
 Section: Tweaks
-Maintainer: JViruss
-Depends: firmware (>15.0), mobilesubstrate
+Maintainer: JViruss <quagpham1@gmail.com>
+Depends: firmware (>14.0), mobilesubstrate
 Architecture: iphoneos-arm iphoneos-arm64
 Filename: ./debs/com.shadowtech.ios_1.0.2.deb
 Size: 220730
 MD5sum: 15cc34b20a356a808326b8da25398774
 Description: Nothink
 Name: ZShadow
-Author: JViruss
+Author: JViruss <quagpham1@gmail.com>
 Depiction: https://jviruzz.github.io/repo/depictions/?p=com.shadowtech.ios
 
