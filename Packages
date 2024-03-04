@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: JViruss
 Depends: firmware (>15.0), mobilesubstrate
 Architecture: iphoneos-arm iphoneos-arm64
-Filename: ./debs/com.shadowtech.ios_1.0.2~b21_iphoneos-arm64.deb
+Filename: ./debs/com.shadowtech.ios_1.0.2.deb
 Size: 220730
 MD5sum: 15cc34b20a356a808326b8da25398774
 Description: Nothink
