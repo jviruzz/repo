@@ -27,7 +27,7 @@ Maintainer: ShadowTech
 Installed-Size: 1224
 Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, sqlite3 (>= 3.24), ldid (>= 2.0) | firmware (<< 7.0)
 Filename: ./debians/com.shadowtech.ios_1.0.2~b21_iphoneos-arm64.deb
-Size: 220826
+Size: 220730
 MD5sum: 15cc34b20a356a808326b8da25398774
 SHA1: 885a8064ea4b32b5837913d2a15f55bf8bb04f38
 SHA256: d6ef6500b95ddd841010f76403055bc8e4265420fd5d7831b9f3bc4b0e6e9e10
