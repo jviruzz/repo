@@ -1,0 +1,23 @@
+<package>
+	<id>com.shadowtech.ios14</id>
+	<name>ShadowTech</name>
+	<version>1.0.2~b20</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.8.1</maxiOS>
+			<otherVersions>supported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>ShadowTech for ios 14</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Fix 14</change>
+	</changelog>
+	<links></links>
+</package>

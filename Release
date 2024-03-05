@@ -1,8 +1,37 @@
-Origin: JViruss
-Label: JViruss
+Architectures: iphoneos-arm64
+Codename: ios
+Components: main
+Date: Wed, 21 Feb 2024 16:17:30 +0000
+Description: Rootless Repo
+Label: ShadowTech
+Origin: ShadowTech
 Suite: stable
 Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
-Components: main
-Description: JViruss's Repo
+MD5Sum:
+ 2e0eaa1b267878368f5987aabb8ca832             1930 Packages
+ 46b96e87dcc31c1252e0138134fad409              926 Packages.bz2
+ bffbea8a68acfa369bd85c36cbb13e22              805 Packages.gz
+ 1a97e346e111b710844a54091f67199b              844 Packages.xz
+ 93b373530716048a2ac77c2bd4b2b47c              793 Packages.zst
+ 8d80296e11292931c1b27fb4e1f5dbf7              190 Release
+SHA1:
+ 9cddcc097bf08ee1ce3cbfa094d9e056335ce480             1930 Packages
+ c380ede35b833709d59471fbd791dcc3e802726f              926 Packages.bz2
+ 74a4152def51a95f2a0954966f35bb47e8851424              805 Packages.gz
+ 6d3f36f7ce783a1178a1d924eda3d570686fc213              844 Packages.xz
+ 858c35a53e9cf9803c157ec6c842800e36f4ea48              793 Packages.zst
+ cde574519f4ba04178652305e23cdca1b5d3d758              190 Release
+SHA256:
+ 7776bbca0e574d723d2ef10d56775586bad23db03cb7840c8a383c7df1d58eb9             1930 Packages
+ 44345c301684bc6e52c6a94e0a079c45f2c6b0393aa1765a405fcc3e3a701ef8              926 Packages.bz2
+ a9a096dab46c1a3f887f0c81d129b2a932072e8aecf9d79b8b0a4ec07d5dc0e0              805 Packages.gz
+ a1e7a6dbc0d2ab406296ada68cf45d7ca0af52ca0ab4f2d9731da6ad7b9acd9c              844 Packages.xz
+ de1367a11c19d3e74a5b7df7293399b01aa7651b3da212d2505edd63d7a50af1              793 Packages.zst
+ 47267383ec7c7fe4b9ef543244ea94e280b7032f029184a9957dc8d533db2666              190 Release
+SHA512:
+ 0002d31c161d0328e34265ed290838a5d89babd62651b5a4e8ac102a83edf9e4641db991e0f52f559564c4e5853a0bed90fad26ca2ab442214546795eea88aba             1930 Packages
+ 17f38d815ebebc3e1b6bdc21aafb18475f46c1664090b88a94f65d205a266cdeed87d2f2628ab749c86cfa25ac17b2c4275c627c70c3af85117ba167b71e2ed1              926 Packages.bz2
+ 90fbd086372acb3a0fb2f6215f4d7fe06055ba34cdf7541e0784453527cc08aadd917f723a77dce8aa125098ca75bfb91c6d4e541ec7ae1534712d0018390ca2              805 Packages.gz
+ 5a7a54c40f89212a173104b934da32d36e8874c934294bbc4c5e798b9e300c7c093eebac1444efb3588d24a9610b0e54bc7591dc242a231d7307d5ae92bd216b              844 Packages.xz
+ eff104cdda6f9fbb93877513ebfd8b8aaa18cd4a7d2657a48bfe2ffb429bc10b2a486efe8820eb78e840dad100edbc47c058a3f310272b0fc22e66ec24dc014d              793 Packages.zst
+ e3e85e6e5af4353142eb30cdf8579493ac7390aad9d50876e940399b79b64d5bfd4757367a77e543c9a51a30f4b3cb33f60bb310b8e6edebb657bbc4105028bd              190 Release

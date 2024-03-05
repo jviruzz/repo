@@ -1,14 +1,42 @@
+Package: com.shadowtech.ios14
+Architecture: iphoneos-arm
+Version: 1.0.2~b20
+Section: System
+Maintainer: ShadowTech
+Installed-Size: 1020
+Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, sqlite3 (>= 3.24), ldid (>= 2.0) | firmware (<< 7.0)
+Filename: ./debians/com.shadowtech.ios14_1.0.2~b20_iphoneos-arm.deb
+Size: 201386
+MD5sum: ac352f3d27f28b571bb602bd3b8d2f6a
+SHA1: a54f41691d3ef6b6ca42d6e6ff840fe37789f428
+SHA256: 34427c189e51ad701158898f89333b5a8e8dee31fd579068586c68a4b8271b6a
+SHA512: cddf34835a573dd2df455fa2dd6db0cb03d4442dd4f978bc82aff801cdd06ad7ad8ac518907df3fad57627479497e2329e1a3a15f1ee24a18066085530cf3717
+Description: ShadowTech ios autolead
+Tag: role::hacker
+Name: shadowios14
+#Depiction: http://zard.zios.tools/depictions/?p=com.shadowtech.ios
+Depiction: https://repo.shadowtech.vip/depictions/web/?p=com.shadowtech.ios14
+SileoDepiction: https://repo.shadowtech.vip/depictions/native/com.shadowtech.ios14/depiction.json
+Author: ShadowTech
+
 Package: com.shadowtech.ios
+Architecture: iphoneos-arm64
 Version: 1.0.2~b21
-Section: Tweaks
-Maintainer: JViruss <quagpham1@gmail.com>
-Depends: firmware (>14.0), mobilesubstrate
-Architecture: iphoneos-arm iphoneos-arm64
-Filename: ./debs/com.shadowtech.ios_1.0.2.deb
-Size: 220730
-MD5sum: 15cc34b20a356a808326b8da25398774
-Description: Nothink
-Name: ZShadow
-Author: JViruss <quagpham1@gmail.com>
-Depiction: https://jviruzz.github.io/repo/depictions/?p=com.shadowtech.ios
+Section: System
+Maintainer: ShadowTech
+Installed-Size: 1224
+Depends: preferenceloader, zip (>= 2.2), unzip (>= 6.0), curl, sqlite3 (>= 3.24), ldid (>= 2.0) | firmware (<< 7.0)
+Filename: ./debians/com.shadowtech.ios_1.0.2~b21_iphoneos-arm64.deb
+Size: 220826
+MD5sum: 15CC34B20A356A808326B8DA25398774
+SHA1: 885A8064EA4B32B5837913D2A15F55BF8BB04F38
+SHA256: D6EF6500B95DDD841010F76403055BC8E4265420FD5D7831B9F3BC4B0E6E9E10
+SHA512: A3F9761727AECCF757AB9A7C062FCF02D1A9787498B2CDC5C0BA255DD29EBDD05082034CA3D8732693C5CEABF6F5644BAD04339A56D665A13122FACC74A9C769
+Description: ShadowTech ios autolead
+Tag: role::hacker
+Name: shadowios
+#Depiction: http://zard.zios.tools/depictions/?p=com.shadowtech.ios
+Depiction: https://repo.shadowtech.vip/depictions/web/?p=com.shadowtech.ios
+SileoDepiction: https://repo.shadowtech.vip/depictions/native/com.shadowtech.ios/depiction.json
+Author: ShadowTech
 
